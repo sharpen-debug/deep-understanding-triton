@@ -1,7 +1,9 @@
 
 # 《刨根问底 Triton 编译器》 - 图解一个真实AI编译器的五脏六腑
 
-**😫 说白了就是想搞清楚：编译器到底是怎么干活的？——因为 AI 芯片越多，这玩意儿就越值钱，我想挣这份钱。**
+**😫 问题1：为什么 会有 这个系列？** 作为一个程序猿，很想瞅瞅一个 “活生生” 的编译器的运转细节。
+
+**😫 问题2：为什么 要写 这个系列？** 因为 AI 芯片越多，编译器这玩意儿就越值钱，写它有前途。
 
 **🔪 拿谁下手？我选的是：OpenAI 开源的 Triton**——一个AI编译器，够新、够热、源码够典型，正好拿来开刀。
 
@@ -9,11 +11,11 @@
 
 下面就是每周要干的事：👇
 
-![Alt text](image-framework.png)
+![Alt text](./pic/image-framework.png)
 
-> **结构总览：** 10周 = 4卷，由浅入深。
+> **规划：** 10周 = 4卷，由浅入深。
 
-![Alt text](image-volume.png)
+![Alt text](./pic/image-volume.png)
 
 行了，废话不多说，刨根问底，走起...
 
@@ -24,36 +26,26 @@
 
 
 
-## 📜 第一卷：Triton价值破局 —— 为什么学？
+## 📜 第一卷：Triton 价值破局 —— 为什么学？
 
 > **📖 这卷讲啥：** 先把你忽悠瘸——不对，忽悠信——**AI时代，编译器这东西真值得学**。用趋势“吓唬”你，用痛点“扎”你心，再用案例“勾引”你。总之让觉得**浪费几周时间，👀瞅瞅一个活生生的编译器的“五脏六腑”，这买卖不亏**。代码基本不细讲（毕竟，用不到的东西，提前说了都是浪费你我的时间），纯纯心智按摩。
 
 ### 🗓️ [第一周：【价值破局】2026玩透OpenAI的Triton，等于2014年All in移动互联网](https://mp.weixin.qq.com/s/A3P8kqzX2nd4XQvAVpML5g)
 
-> **🌬️ 时代风口：** 你可能好奇：一个好好的程序员，不研究编程语言，却研究上编译器了，是不是有点不务正业？编译器到底有啥用？这周不写代码，专治"**编译器跟我有啥关系**"这个病。4天给你“洗个脑”——让你觉得AI时代，不学编译器简直亏了一个小目标。
->
-> **📋 每日预览：** 布局（Day00）→ 想挣钱？盯上编译器（Day01）→ 编译器选美·Triton刚刚好（Day02）→ 三张面孔+三个创新+代码骨架（Day03）→ 复盘·不学亏一个亿（Day04）
-
-
-
+> **🌬️ 时代风口：** 你可能好奇：一个好好的程序员，不研究编程语言，却研究上编译器了，是不是有点不务正业？编译器到底有啥用？这周不写代码，专治"**编译器跟我有啥关系**"这个病。4天（主线）给你“洗个脑”——让你觉得AI时代，不学编译器简直亏了一个小目标。
 
 
 - [📝 Day 01：一个想挣钱的程序猿：为啥放着算法不卷，盯上编译器了？](https://mp.weixin.qq.com/s/Lq-6EEiPIa8CRFgmRYPA2Q)
-- [📝 Day 02：编译器"选美"：GCC 2000万+行，Clang 200万+行，Triton 20万行，"冠军"是谁？- 待更新](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
-- [📝 Day 03：人人都说Triton牛，凭啥？三张面孔认识它，三个创新贼值钱- 待更新](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
+- [📝 Day 02：编译器"选美"：GCC / Clang / Triton，到底翻谁的牌子？](https://mp.weixin.qq.com/s/fuH4b16aFf-B5ZqdDK60GA)
+- [📝 Day 03：人人都说 Triton 牛，凭啥？（上 · 三张面孔认识它）- 待更新](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
+- [📝 Day 03：人人都说 Triton 牛，凭啥？（下 · 三个创新贼值钱）- 待更新](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
 - [📝 Day 04：4天前：编译器跟我有毛关系？4天后：不学Triton感觉亏了一个亿 - 待更新](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
+- [🥚 Day 05："选美冠军" Triton 的底气：幕后两位"大佬"终于藏不住了- 待更新](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
+- [🥚 Day 06：两位"大佬"只是开胃菜——Triton 的朋友圈里全是硬核玩家 - 待更新](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
 
-不废话，一图胜千言...
+速览，一图胜千言：
+![Alt text](./pic/flow-W1.png)
 
-```mermaid
-timeline
-    title 第一周：从一个想挣钱的程序员视角看Triton
-    %%section 本周任务
-        📝 Day 01 <br> 想挣钱→盯上编译器 : AI芯片碎片化<br>编译器越来越值钱
-        📝 Day 02 <br> 编译器选美 : GCC太老LLVM太大<br>Triton刚刚好
-        📝 Day 03 <br> 三张面孔+三个创新 : Tile/多后端/自动调优<br>代码骨架看一眼
-        📝 Day 04 <br> 忽悠信了+阅读流复盘 : 4天前：有毛关系？<br>4天后：不学亏一亿
-```
 
 ---
 
