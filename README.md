@@ -5,6 +5,8 @@
 
 **😫 问题2：为什么 要写 这个系列？** 因为 AI 芯片越多，编译器这玩意儿就越值钱，写它有前途。
 
+---
+
 **🔪 拿谁下手？我选的是：OpenAI 开源的 Triton**——一个AI编译器，够新、够热、源码够典型，正好拿来开刀。
 
 这个系列不讲虚的，每周会选一个小点切入——可能是一行代码、一条命令，也可能是一个文件。从这些最具体的细节下手，一步步摸进 Triton 的源码深处，把编译器的老底扒个底掉儿。🔍
@@ -37,8 +39,8 @@
 
 - [📝 Day 01：一个想挣钱的程序猿：为啥放着算法不卷，盯上编译器了？](https://mp.weixin.qq.com/s/Lq-6EEiPIa8CRFgmRYPA2Q)
 - [📝 Day 02：编译器"选美"：GCC / Clang / Triton，到底翻谁的牌子？](https://mp.weixin.qq.com/s/fuH4b16aFf-B5ZqdDK60GA)
-- [📝 Day 03：人人都说 Triton 牛，凭啥？（上 · 三张面孔认识它）- 待更新](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
-- [📝 Day 03：人人都说 Triton 牛，凭啥？（下 · 三个创新贼值钱）- 待更新](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
+- [📝 Day 03：人人都说 Triton 牛，凭啥？（上 · 三张面孔，认识它）](https://mp.weixin.qq.com/s/7EtRA9PpDzWGZ6OtmmNjOg)
+- [📝 Day 03：人人都说 Triton 牛，凭啥？（下 · 三个创新，贼值钱）](https://mp.weixin.qq.com/s/DD7S5pYSOhCRW-k2ZQhCDw)
 - [📝 Day 04：4天前：编译器跟我有毛关系？4天后：不学Triton感觉亏了一个亿 - 待更新](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
 - [🥚 Day 05："选美冠军" Triton 的底气：幕后两位"大佬"终于藏不住了- 待更新](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
 - [🥚 Day 06：两位"大佬"只是开胃菜——Triton 的朋友圈里全是硬核玩家 - 待更新](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
