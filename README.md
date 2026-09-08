@@ -42,8 +42,8 @@
 - [📝 Day 03：人人都说 Triton 牛，凭啥？（上 · 三张面孔，认识它）](https://mp.weixin.qq.com/s/7EtRA9PpDzWGZ6OtmmNjOg)
 - [📝 Day 03：人人都说 Triton 牛，凭啥？（下 · 三个创新，贼值钱）](https://mp.weixin.qq.com/s/DD7S5pYSOhCRW-k2ZQhCDw)
 - [📝 Day 04：4天前：编译器跟我有毛关系？4天后：不学Triton感觉亏了一个亿](https://mp.weixin.qq.com/s/K0bKZFHXi-8U-R8aoPeuew)
-- [🥚 Day 05："选美冠军" Triton 的底气：幕后两位"大佬"终于藏不住了- 待更新](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
-- [🥚 Day 06：两位"大佬"只是开胃菜——Triton 的朋友圈里全是硬核玩家 - 待更新](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
+- [🥚 Day 05："选美冠军" Triton 的底气：幕后两位"大佬"终于藏不住了- 待更新](https://mp.weixin.qq.com/s/zx2qKBc6OXCCqq06TvGdug)
+- [🥚 Day 06：两位"大佬"只是开胃菜——Triton 的朋友圈里全是硬核玩家 - 待更新](https://mp.weixin.qq.com/s/XmaZUlJuIYQryo596sNq6w)
 
 速览，一图胜千言：
 ![Alt text](./pic/flow-W1.png)
