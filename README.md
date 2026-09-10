@@ -32,7 +32,7 @@
 
 > **📖 这卷讲啥：** 先把你忽悠瘸——不对，忽悠信——**AI时代，编译器这东西真值得学**。用趋势“吓唬”你，用痛点“扎”你心，再用案例“勾引”你。总之让觉得**浪费几周时间，👀瞅瞅一个活生生的编译器的“五脏六腑”，这买卖不亏**。代码基本不细讲（毕竟，用不到的东西，提前说了都是浪费你我的时间），纯纯心智按摩。
 
-### 🗓️ [第一周：【价值破局】2026玩透OpenAI的Triton，等于2014年All in移动互联网](https://mp.weixin.qq.com/s/A3P8kqzX2nd4XQvAVpML5g)
+### [🗓️ 第一周：【价值破局】2026玩透OpenAI的Triton，等于2014年All in移动互联网](https://mp.weixin.qq.com/s/A3P8kqzX2nd4XQvAVpML5g)
 
 > **🌬️ 时代风口：** 你可能好奇：一个好好的程序员，不研究编程语言，却研究上编译器了，是不是有点不务正业？编译器到底有啥用？这周不写代码，专治"**编译器跟我有啥关系**"这个病。4天（主线）给你“洗个脑”——让你觉得AI时代，不学编译器简直亏了一个小目标。
 
@@ -51,7 +51,7 @@
 
 ---
 
-## 📜 第二卷：Triton变形记 —— 编译器怎么干活？
+## [📜 第二卷：Triton变形记 —— 编译器怎么干活？](https://mp.weixin.qq.com/s/OnkqIxnJUqUZDnnHZWrdCg)
 
 > **📖 这卷干啥：** 不整虚的，直接从宏观到微观，从你写的Python到GPU最终听懂的话，像破案一样——不对，像看**热闹**一样，把Triton编译器从Python到GPU的"变形"全过程捋一遍。不保证你全会，保证你看了不困。
 >
@@ -61,11 +61,7 @@
 
 ---
 
-### [📝 第二卷的引导篇]()
-
 ### 🗓️ 第二周：【代码蜕变】一段Python代码的“西游记”：你敲下代码，Triton在背地里偷偷忙活了啥？
-
-
 
 - [📝 Day 01：刨根问底一小段在triton里"脱胎换骨"的Python代码，刨谁？- 待更新](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
 - [📝 Day 02：待更新](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
@@ -78,9 +74,6 @@
 ---
 
 ### 🗓️ 第三周：【编译链路】Triton用一个@jit装饰器，就能让Python代码“变形”？刨开JITFunction给你看
-
-
-
 
 - [📝 Day 01：揭秘 Triton 编译机制：为什么 JITFunction 是理解它的核心地图？- 待更新](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
 - [📝 Day 02：待更新](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
@@ -95,8 +88,6 @@
 
 ### 🗓️ 第四周：【执行引擎】编译产物在硬盘里吃灰？Triton：等着，我送它去GPU上跑
 
-
-
 - [📝 Day 01：凭啥@triton.jit编译完不能歇会？Triton执行机制帮你解惑 - 待更新](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
 - [📝 Day 02：待更新](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
 - [📝 Day 03：待更新](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
@@ -108,8 +99,6 @@
 ---
 
 ### 🗓️ 第五周：【全栈串联】刨完代码，刨文件——一个.cubin文件的“前世今生”，藏着Triton的“全流程真相”
-
-
 
 - [📝 Day 01：你以为Triton只改了你的代码？扒一扒它在硬盘里的"小动作"——缓存、哈希、加载一手抓 - 待更新](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
 - [📝 Day 02：待更新](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
