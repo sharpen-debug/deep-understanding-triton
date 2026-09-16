@@ -65,7 +65,7 @@
 ### [🗓️ 第二周：【代码蜕变】一段Python代码的“西游记”：你敲下代码，Triton在背地里偷偷忙活了啥？](https://mp.weixin.qq.com/s/9Jt0X4T9uQWysdINUkK1Lw)
 
 - [📝 Day 01：刨根问底一小段在triton里"脱胎换骨"的Python代码，刨谁？](https://mp.weixin.qq.com/s/i7AhGyq44_3wlLoeMjyaUg)
-- [📝 Day 02：待更新](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
+- [📝 Day 02：你以为 import triton 只是导个包？Triton 已经偷偷把舞台"搭"好](https://mp.weixin.qq.com/s/Q9esQK46-C-LWaIk1AMQQg)
 - [📝 Day 03：待更新](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
 - [📝 Day 04：待更新](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
 - [📝 Day 05：待更新](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
