@@ -66,51 +66,53 @@
 
 - [📝 Day 01：刨根问底一小段在triton里"脱胎换骨"的Python代码，刨谁？](https://mp.weixin.qq.com/s/i7AhGyq44_3wlLoeMjyaUg)
 - [📝 Day 02：你以为 import triton 只是导个包？Triton 已经偷偷把舞台"搭"好](https://mp.weixin.qq.com/s/Q9esQK46-C-LWaIk1AMQQg)
-- [📝 Day 03：待更新](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
-- [📝 Day 04：待更新](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
-- [📝 Day 05：待更新](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
-- [📝 Day 06：待更新](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
-- [📝 Day 07：待更新](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
+- [📝 Day 03：磨刀砍柴Debug](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
+- [📝 Day 04：磨刀砍柴Debug，连载中...](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
+- [📝 Day 05：磨刀砍柴Debug，连载中...](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
+- [📝 Day 06：磨刀砍柴Debug，连载中...](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
+- [📝 Day 07：磨刀砍柴Debug，连载中...](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
+- [🥚 Day 02-番外（上）：你装完 Triton，它咋知道你的硬件是 N 卡还是 A 卡？](https://mp.weixin.qq.com/s/hhAzSfjcsDkNgHfJnKjffA)
+- [🥚 Day 02-番外（下）：xxx](https://mp.weixin.qq.com/s/hhAzSfjcsDkNgHfJnKjffA)
 
 ---
 
 ### 🗓️ 第三周：【编译链路】Triton用一个@jit装饰器，就能让Python代码“变形”？刨开JITFunction给你看
 
-- [📝 Day 01：揭秘 Triton 编译机制：为什么 JITFunction 是理解它的核心地图？- 待更新](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
-- [📝 Day 02：待更新](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
-- [📝 Day 03：待更新](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
-- [📝 Day 04：待更新](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
-- [📝 Day 05：待更新](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
-- [📝 Day 06：待更新](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
-- [📝 Day 07：待更新](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
+- [📝 Day 01：揭秘 Triton 编译机制：为什么 JITFunction 是理解它的核心地图？- 磨刀砍柴Debug，连载中...](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
+- [📝 Day 02：磨刀砍柴Debug，连载中...](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
+- [📝 Day 03：磨刀砍柴Debug，连载中...](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
+- [📝 Day 04：磨刀砍柴Debug，连载中...](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
+- [📝 Day 05：磨刀砍柴Debug，连载中...](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
+- [📝 Day 06：磨刀砍柴Debug，连载中...](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
+- [📝 Day 07：磨刀砍柴Debug，连载中...](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
 
 ---
 
 
 ### 🗓️ 第四周：【执行引擎】编译产物在硬盘里吃灰？Triton：等着，我送它去GPU上跑
 
-- [📝 Day 01：凭啥@triton.jit编译完不能歇会？Triton执行机制帮你解惑 - 待更新](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
-- [📝 Day 02：待更新](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
-- [📝 Day 03：待更新](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
-- [📝 Day 04：待更新](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
-- [📝 Day 05：待更新](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
-- [📝 Day 06：待更新](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
+- [📝 Day 01：凭啥@triton.jit编译完不能歇会？Triton执行机制帮你解惑 - 磨刀砍柴Debug，连载中...](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
+- [📝 Day 02：磨刀砍柴Debug，连载中...](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
+- [📝 Day 03：磨刀砍柴Debug，连载中...](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
+- [📝 Day 04：磨刀砍柴Debug，连载中...](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
+- [📝 Day 05：磨刀砍柴Debug，连载中...](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
+- [📝 Day 06：磨刀砍柴Debug，连载中...](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
 
 
 ---
 
 ### 🗓️ 第五周：【全栈串联】刨完代码，刨文件——一个.cubin文件的“前世今生”，藏着Triton的“全流程真相”
 
-- [📝 Day 01：你以为Triton只改了你的代码？扒一扒它在硬盘里的"小动作"——缓存、哈希、加载一手抓 - 待更新](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
-- [📝 Day 02：待更新](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
-- [📝 Day 03：待更新](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
-- [📝 Day 04：待更新](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
-- [📝 Day 05：待更新](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
-- [📝 Day 06：待更新](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
+- [📝 Day 01：你以为Triton只改了你的代码？扒一扒它在硬盘里的"小动作"——缓存、哈希、加载一手抓 - 磨刀砍柴Debug，连载中...](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
+- [📝 Day 02：磨刀砍柴Debug，连载中...](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
+- [📝 Day 03：磨刀砍柴Debug，连载中...](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
+- [📝 Day 04：磨刀砍柴Debug，连载中...](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
+- [📝 Day 05：磨刀砍柴Debug，连载中...](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
+- [📝 Day 06：磨刀砍柴Debug，连载中...](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
 
 ---
 
-### [📝 第二卷的总结篇 - 待更新](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
+### [📝 第二卷的总结篇 - 磨刀砍柴Debug，连载中...](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
 
 ---
 
@@ -126,12 +128,12 @@
 
 
 
-- [📝 Day 01：20w行，26MB就捣鼓出一个AI编译器？看OpenAI如何"优雅"地写Triton - 待更新](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
-- [📝 Day 02：待更新](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
-- [📝 Day 03：待更新](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
-- [📝 Day 04：待更新](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
-- [📝 Day 05：待更新](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
-- [📝 Day 06：待更新](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
+- [📝 Day 01：20w行，26MB就捣鼓出一个AI编译器？看OpenAI如何"优雅"地写Triton - 磨刀砍柴Debug，连载中...](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
+- [📝 Day 02：磨刀砍柴Debug，连载中...](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
+- [📝 Day 03：磨刀砍柴Debug，连载中...](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
+- [📝 Day 04：磨刀砍柴Debug，连载中...](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
+- [📝 Day 05：磨刀砍柴Debug，连载中...](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
+- [📝 Day 06：磨刀砍柴Debug，连载中...](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
 
 ---
 
@@ -140,17 +142,17 @@
 
 
 
-- [📝 Day 01：安装Triton那些事儿：装一个Triton，能学会多少花活？——从pip install看构建系统全貌 - 待更新](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
-- [📝 Day 02：待更新](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
-- [📝 Day 03：待更新](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
-- [📝 Day 04：待更新](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
-- [📝 Day 05：待更新](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
-- [📝 Day 06：待更新](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
+- [📝 Day 01：安装Triton那些事儿：装一个Triton，能学会多少花活？——从pip install看构建系统全貌 - 磨刀砍柴Debug，连载中...](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
+- [📝 Day 02：磨刀砍柴Debug，连载中...](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
+- [📝 Day 03：磨刀砍柴Debug，连载中...](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
+- [📝 Day 04：磨刀砍柴Debug，连载中...](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
+- [📝 Day 05：磨刀砍柴Debug，连载中...](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
+- [📝 Day 06：磨刀砍柴Debug，连载中...](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
 
 
 ---
 
-### [📝 第三卷的总结篇 - 待更新](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
+### [📝 第三卷的总结篇 - 磨刀砍柴Debug，连载中...](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
 
 ---
 
@@ -158,7 +160,7 @@
 
 ---
 
-### [📝 第四卷的引导篇 - 待更新](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
+### [📝 第四卷的引导篇 - 磨刀砍柴Debug，连载中...](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
 
 ---
 
@@ -168,13 +170,13 @@
 
 
 
-- [📝 Day 01：剖析Triton后端实现（上）：先看官方标准答案——一套代码，怎么跑多硬件？ - 待更新](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
-- [📝 Day 02：待更新](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
-- [📝 Day 03：待更新](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
-- [📝 Day 04：待更新](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
-- [📝 Day 05：待更新](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
-- [📝 Day 06：待更新](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
-- [📝 Day 07：待更新](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
+- [📝 Day 01：剖析Triton后端实现（上）：先看官方标准答案——一套代码，怎么跑多硬件？ - 磨刀砍柴Debug，连载中...](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
+- [📝 Day 02：磨刀砍柴Debug，连载中...](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
+- [📝 Day 03：磨刀砍柴Debug，连载中...](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
+- [📝 Day 04：磨刀砍柴Debug，连载中...](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
+- [📝 Day 05：磨刀砍柴Debug，连载中...](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
+- [📝 Day 06：磨刀砍柴Debug，连载中...](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
+- [📝 Day 07：磨刀砍柴Debug，连载中...](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
 
 
 ---
@@ -185,12 +187,12 @@
 
 
 
-- [📝 Day 01：学Triton代码生成，凭啥要先过MLIR这一关？——从官方的Toy编译器说起 - 待更新](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
-- [📝 Day 02：待更新](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
-- [📝 Day 03：待更新](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
-- [📝 Day 04：待更新](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
-- [📝 Day 05：待更新](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
-- [📝 Day 06：待更新](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
+- [📝 Day 01：学Triton代码生成，凭啥要先过MLIR这一关？——从官方的Toy编译器说起 - 磨刀砍柴Debug，连载中...](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
+- [📝 Day 02：磨刀砍柴Debug，连载中...](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
+- [📝 Day 03：磨刀砍柴Debug，连载中...](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
+- [📝 Day 04：磨刀砍柴Debug，连载中...](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
+- [📝 Day 05：磨刀砍柴Debug，连载中...](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
+- [📝 Day 06：磨刀砍柴Debug，连载中...](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
 
 ---
 
@@ -199,15 +201,15 @@
 
 
 
-- [📝 Day 01：Triton加个函数那点事儿（上）：从一个error开始，徒手"生造"一个gather函数——方案→API→IR→Pass→空壳 - 待更新](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
-- [📝 Day 02：待更新](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
-- [📝 Day 03：待更新](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
-- [📝 Day 04：待更新](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
-- [📝 Day 05：待更新](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
+- [📝 Day 01：Triton加个函数那点事儿（上）：从一个error开始，徒手"生造"一个gather函数——方案→API→IR→Pass→空壳 - 磨刀砍柴Debug，连载中...](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
+- [📝 Day 02：磨刀砍柴Debug，连载中...](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
+- [📝 Day 03：磨刀砍柴Debug，连载中...](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
+- [📝 Day 04：磨刀砍柴Debug，连载中...](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
+- [📝 Day 05：磨刀砍柴Debug，连载中...](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
 
 
-### [📝 第四卷的总结篇 - 待更新](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
+### [📝 第四卷的总结篇 - 磨刀砍柴Debug，连载中...](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
 
 ---
 
-## [刨根问底Triton——大结局：你已经是Triton的Contributor了 - 待更新](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
+## [刨根问底Triton——大结局：你已经是Triton的Contributor了 - 磨刀砍柴Debug，连载中...](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
