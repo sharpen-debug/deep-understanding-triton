@@ -72,7 +72,7 @@
 - [📝 Day 06：磨刀砍柴Debug，连载中...](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
 - [📝 Day 07：磨刀砍柴Debug，连载中...](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
 - [🥚 Day 02-番外（上）：你装完 Triton，它咋知道你的硬件是 N 卡还是 A 卡？](https://mp.weixin.qq.com/s/hhAzSfjcsDkNgHfJnKjffA)
-- [🥚 Day 02-番外（下）：xxx](https://mp.weixin.qq.com/s/hhAzSfjcsDkNgHfJnKjffA)
+- [🥚 Day 02-番外（中）：你写的 Triton，真身居然不是 Python？——我脸盲，壳和芯傻傻分不清](https://mp.weixin.qq.com/s/Saun1f8atDgAoCYH20iX4g)
 
 ---
 
