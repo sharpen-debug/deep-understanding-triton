@@ -44,7 +44,7 @@
 - [📝 Day 04：4天前：编译器跟我有毛关系？4天后：不学Triton感觉亏了一个亿](https://mp.weixin.qq.com/s/K0bKZFHXi-8U-R8aoPeuew)
 - [🥚 Day 05："选美冠军" Triton 的底气：幕后两位"大佬"终于藏不住了](https://mp.weixin.qq.com/s/zx2qKBc6OXCCqq06TvGdug)
 - [🥚 Day 06：两位"大佬"只是开胃菜——Triton 的朋友圈里全是硬核玩家](https://mp.weixin.qq.com/s/XmaZUlJuIYQryo596sNq6w)
-- [🥚 心路历程：2周9篇20粉，写Triton的我，被眉笔一哥“骂”到不敢弃更](https://mp.weixin.qq.com/s/XmaZUlJuIYQryo596sNq6w)
+- [🧭 心路历程：2周9篇20粉，写Triton的我，被眉笔一哥“骂”到不敢弃更](https://mp.weixin.qq.com/s/XmaZUlJuIYQryo596sNq6w)
 
 速览，一图胜千言：
 ![Alt text](./pic/flow-W1.png)
@@ -71,8 +71,10 @@
 - [📝 Day 05：磨刀砍柴Debug，连载中...](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
 - [📝 Day 06：磨刀砍柴Debug，连载中...](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
 - [📝 Day 07：磨刀砍柴Debug，连载中...](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
+- 
 - [🥚 Day 02-番外（上）：你装完 Triton，它咋知道你的硬件是 N 卡还是 A 卡？](https://mp.weixin.qq.com/s/hhAzSfjcsDkNgHfJnKjffA)
 - [🥚 Day 02-番外（中）：你写的 Triton，真身居然不是 Python？——我脸盲，壳和芯傻傻分不清](https://mp.weixin.qq.com/s/Saun1f8atDgAoCYH20iX4g)
+- [🥚 Day 02-番外（下）：import triton：壳负责喊，芯负责干，这场“里应外合”从啥时开始？](https://mp.weixin.qq.com/s/Saun1f8atDgAoCYH20iX4g)
 
 ---
 
