@@ -1,6 +1,10 @@
 
 # 《刨根问底 Triton 编译器》
 
+<a href="https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA"> 
+  <img src="https://img.shields.io/badge/磨刀砍柴Debug-purple?style=for-the-badge" alt="磨刀砍柴Debug"> 
+</a>
+
 **😫 问题1：为什么 会有 这个系列？** 作为一个程序猿，很想瞅瞅一个 “活生生” 的编译器的运转细节。
 
 **😫 问题2：为什么 要写 这个系列？** 因为 AI 芯片越多，编译器这玩意儿就越值钱，写它有前途。
