@@ -19,12 +19,7 @@
 
 ![Alt text](./pic/image-framework.png)
 
-> **规划：** 10周 = 4卷，由浅入深。
-
-![Alt text](./pic/image-volume.png)
-
 行了，废话不多说，刨根问底，走起...
-
 
 ---
 
