@@ -1,8 +1,9 @@
 
-# 《刨根问底 Triton 编译器》
+# 《刨根问底 Triton 编译器》- 图解一个真实 AI 编译器的五脏六腑
 
 <a href="https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA"> 
   <img src="https://img.shields.io/badge/磨刀砍柴Debug-purple?style=for-the-badge" alt="磨刀砍柴Debug"> 
+  <img src="https://img.shields.io/badge/出品-green?style=for-the-badge" alt="出品">
 </a>
 
 **😫 问题1：为什么 会有 这个系列？** 作为一个程序猿，很想瞅瞅一个 “活生生” 的编译器的运转细节。
