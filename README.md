@@ -1,5 +1,5 @@
 
-# 《刨根问底 Triton 编译器》- 图解一个真实 AI 编译器的五脏六腑
+# 《刨根问底 Triton》- 图解一个真实 AI 编译器的五脏六腑
 
 <a href="https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA"> 
   <img src="https://img.shields.io/badge/磨刀砍柴Debug-purple?style=for-the-badge" alt="磨刀砍柴Debug"> 
