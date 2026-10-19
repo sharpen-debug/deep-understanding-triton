@@ -75,6 +75,7 @@
 - [🥚 Day 02-番外（上）：你装完 Triton，它咋知道你的硬件是 N 卡还是 A 卡？](https://mp.weixin.qq.com/s/hhAzSfjcsDkNgHfJnKjffA)
 - [🥚 Day 02-番外（中）：你写的 Triton，真身居然不是 Python？——我脸盲，壳和芯傻傻分不清](https://mp.weixin.qq.com/s/Saun1f8atDgAoCYH20iX4g)
 - [🥚 Day 02-番外（下）：import triton：壳负责喊，芯负责干，这场“里应外合”从啥时开始？](https://mp.weixin.qq.com/s/QPrYGfLMyME8aBSP7_7jdQ)
+- [🥚 Day 02-复盘：一行 import triton，折腾 4 天？Triton 编译器，也配？](https://mp.weixin.qq.com/s/ELRN7igWLJBlmwN_shLrWg)
 
 ---
 
