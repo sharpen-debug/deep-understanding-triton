@@ -66,7 +66,7 @@
 
 - [📝 Day 01：刨根问底一小段在triton里"脱胎换骨"的Python代码，刨谁？](https://mp.weixin.qq.com/s/i7AhGyq44_3wlLoeMjyaUg)
 - [📝 Day 02：你以为 import triton 只是导个包？Triton 已经偷偷把舞台"搭"好](https://mp.weixin.qq.com/s/Q9esQK46-C-LWaIk1AMQQg)
-- [📝 Day 03：磨刀砍柴Debug](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
+- [📝 Day 03：加个 @triton.jit，凭啥 Python 就能在 GPU 上飞？](https://mp.weixin.qq.com/s/fb9i-xSdopKa9yum0zsZVw)
 - [📝 Day 04：磨刀砍柴Debug，连载中...](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
 - [📝 Day 05：磨刀砍柴Debug，连载中...](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
 - [📝 Day 06：磨刀砍柴Debug，连载中...](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
