@@ -36,15 +36,19 @@
 
 > **🌬️ 时代风口：** 你可能好奇：一个好好的程序员，不研究编程语言，却研究上编译器了，是不是有点不务正业？编译器到底有啥用？这周不写代码，专治"**编译器跟我有啥关系**"这个病。4天（主线）给你“洗个脑”——让你觉得AI时代，不学编译器简直亏了一个小目标。
 
+📚 《刨根问底 Triton 编译器》第 1 周，连载目录：
 
-- [📝 Day 01：一个想挣钱的程序猿：为啥放着算法不卷，盯上编译器了？](https://mp.weixin.qq.com/s/Lq-6EEiPIa8CRFgmRYPA2Q)
-- [📝 Day 02：编译器"选美"：GCC / Clang / Triton，到底翻谁的牌子？](https://mp.weixin.qq.com/s/fuH4b16aFf-B5ZqdDK60GA)
-- [📝 Day 03：人人都说 Triton 牛，凭啥？（上 · 三张面孔，认识它）](https://mp.weixin.qq.com/s/7EtRA9PpDzWGZ6OtmmNjOg)
-- [📝 Day 03：人人都说 Triton 牛，凭啥？（下 · 三个创新，贼值钱）](https://mp.weixin.qq.com/s/DD7S5pYSOhCRW-k2ZQhCDw)
-- [📝 Day 04：4天前：编译器跟我有毛关系？4天后：不学Triton感觉亏了一个亿](https://mp.weixin.qq.com/s/K0bKZFHXi-8U-R8aoPeuew)
-- [🥚 Day 05："选美冠军" Triton 的底气：幕后两位"大佬"终于藏不住了](https://mp.weixin.qq.com/s/zx2qKBc6OXCCqq06TvGdug)
-- [🥚 Day 06：两位"大佬"只是开胃菜——Triton 的朋友圈里全是硬核玩家](https://mp.weixin.qq.com/s/XmaZUlJuIYQryo596sNq6w)
-- [🧭 心路历程：2周9篇20粉，写Triton的我，被眉笔一哥“骂”到不敢弃更](https://mp.weixin.qq.com/s/hVIJ-0mkokCOwwcFFQfnOw)
+| 进度 | 内容（点击直达） |
+| :--- | :--- |
+| 📝 **Day 01** | [一个想挣钱的程序猿：为啥放着算法不卷，盯上编译器了？](https://mp.weixin.qq.com/s/Lq-6EEiPIa8CRFgmRYPA2Q) |
+| 📝 **Day 02** | [编译器"选美"：GCC / Clang / Triton，到底翻谁的牌子？](https://mp.weixin.qq.com/s/fuH4b16aFf-B5ZqdDK60GA) |
+| 📝 **Day 03** | [人人都说 Triton 牛，凭啥？（上 · 三张面孔，认识它）](https://mp.weixin.qq.com/s/7EtRA9PpDzWGZ6OtmmNjOg) |
+| 📝 **Day 03** | [人人都说 Triton 牛，凭啥？（下 · 三个创新，贼值钱）](https://mp.weixin.qq.com/s/DD7S5pYSOhCRW-k2ZQhCDw) |
+| 📝 **Day 04** | [4天前：编译器跟我有毛关系？4天后：不学Triton感觉亏了一个亿](https://mp.weixin.qq.com/s/K0bKZFHXi-8U-R8aoPeuew) |
+| 🥚 **Day 05** | ["选美冠军" Triton 的底气：幕后两位"大佬"终于藏不住了](https://mp.weixin.qq.com/s/zx2qKBc6OXCCqq06TvGdug) |
+| 🥚 **Day 06** | [两位"大佬"只是开胃菜——Triton 的朋友圈里全是硬核玩家](https://mp.weixin.qq.com/s/XmaZUlJuIYQryo596sNq6w) |
+| 🧭 **番外** | [心路历程：2周9篇20粉，写Triton的我，被眉笔一哥“骂”到不敢弃更](https://mp.weixin.qq.com/s/hVIJ-0mkokCOwwcFFQfnOw) |
+
 
 速览，一图胜千言：
 ![Alt text](./pic/flow-W1.png)
@@ -64,17 +68,7 @@
 
 ### [🗓️ 第二周：【代码蜕变】一段Python代码的“西游记”：你敲下代码，Triton在背地里偷偷忙活了啥？](https://mp.weixin.qq.com/s/9Jt0X4T9uQWysdINUkK1Lw)
 
-- [📝 **Day 01**：Triton 网上代码那么多，为啥我偏偏挑了这 20 行来“开刀”？](https://mp.weixin.qq.com/s/i7AhGyq44_3wlLoeMjyaUg)
-- [📝 **Day 02**：别以为 import 只是导包，它的“前戏”多着呢！](https://mp.weixin.qq.com/s/Q9esQK46-C-LWaIk1AMQQg)
-- [🥚 **Day 02-番外（上）**：刚装完 Triton，它咋知道你的硬件是 N 卡还是 A 卡？](https://mp.weixin.qq.com/s/hhAzSfjcsDkNgHfJnKjffA)
-- [🥚 **Day 02-番外（中）**：震惊！你写的 Triton，真身居然藏在 C++ 里？](https://mp.weixin.qq.com/s/Saun1f8atDgAoCYH20iX4g)
-- [🥚 **Day 02-番外（下）**：Triton 的面子是 Python，里子是 C++，这俩家伙是咋打配合的？](https://mp.weixin.qq.com/s/QPrYGfLMyME8aBSP7_7jdQ)
-- [🥚 **Day 02-复盘**：一行 import triton，折腾 4 天？Triton 编译器，也配？](https://mp.weixin.qq.com/s/ELRN7igWLJBlmwN_shLrWg)
-- [📝 **Day 03**：加个 @triton.jit，凭啥 Python 就能原地起飞上 GPU？](https://mp.weixin.qq.com/s/fb9i-xSdopKa9yum0zsZVw)
-- [📝 **Day 04**：GPU 启动太麻烦，Triton 竟只用 2 行？真的假的](https://mp.weixin.qq.com/s/b1X2gwpJwZHQj_mhvyrpVQ)
-- [🥚 **Day 04-番外**：Triton：一个破 [grid]，凭啥“藏着” GPU 启动的猫腻？](https://mp.weixin.qq.com/s/AkZZGVIlChyhsD4qY3XIfQ)
-- [📝 Day 05：磨刀砍柴Debug，连载中...](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
-- [📝 Day 06：磨刀砍柴Debug，连载中...](https://mp.weixin.qq.com/s/1_xwYX0nVzXBsskGNw39mA)
+📚 《刨根问底 Triton 编译器》第 2 周，连载目录：
 
 | 进度 | 内容（点击直达） |
 | :--- | :--- |
